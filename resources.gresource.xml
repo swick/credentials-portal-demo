@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/io/github/swick/CredentialsPortalDemo">
+    <file compressed="false" preprocess="xml-stripblanks">window.ui</file>
+    <file compressed="false">style.css</file>
+  </gresource>
+</gresources>
